@@ -1,0 +1,4 @@
+# see: https://stackoverflow.com/questions/57017066/how-do-i-set-environment-variables-with-cargo
+[env]
+GDK_PIXBUF_MODULE_FILE = { value = "webp/loaders.cache", relative = true }
+FUZZ_WEBP_BINARY = { value = "t4_gtk3_fuzz_exe" }

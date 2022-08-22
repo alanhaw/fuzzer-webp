@@ -1,0 +1,6 @@
+/target
+/.idea
+/crashes
+fuzzer_libwebp
+gdbcmds.txt
+webp-pixbuf-loader/builddir
